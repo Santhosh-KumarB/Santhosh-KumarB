@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Santhosh Kumar B
 
-<!--
-**Santhosh-KumarB/Santhosh-KumarB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+🤖 Machine Learning Intern @ Prodigy InfoTech  
+✍️ Prompt Engineering Intern @ Skill Craft Technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about Artificial Intelligence & Machine Learning
+- Strong interest in real-world ML projects
+- Currently working on regression, clustering, and ML applications
+- Actively improving problem-solving and coding skills
+
+---
+
+## 🧠 Skills
+- Programming: Python
+- Machine Learning: Linear Regression, K-Means, SVM
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Tools: GitHub, Google Colab, VS Code
+- Web (Basic): Flask, HTML, CSS
+
+---
+
+## 📂 Featured Projects
+🔹 **PRODIGY_ML_01** – House Price Prediction (Linear Regression)  
+🔹 **PRODIGY_ML_02** – Customer Segmentation (K-Means)  
+🔹 **Flask ML Web Applications**
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/santhosh-kumar-b-a092662a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
